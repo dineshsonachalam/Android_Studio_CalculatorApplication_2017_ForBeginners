@@ -14,7 +14,7 @@ What things you need to install
 Android Studio
 
 ### activity_main.xml 
-It an user interface. It acts as a front end in android developement.
+It is an user interface. It acts as a front end in android developement.
 
 Things to do:
 * First of all we need to 2 textfield to hold input value that is the number.
@@ -30,7 +30,7 @@ Changes to be done in activity_main.xml
 * Set id for each of the above fields.
 
 ### MainActivity.java
-It is backend of android development. Here we will perform all the computation here.
+It is the backend of android development. Here we will perform all the computation here.
 
 
 Things to be remembered
