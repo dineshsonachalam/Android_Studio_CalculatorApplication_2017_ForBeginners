@@ -23,7 +23,7 @@ Things to do:
 
 Changes to be done in activity_main.xml
 * Change the RelativeLayout to LinearLayout.
-* Add android:orientation="vertical" for vertiall alignment of the widgets.
+* Add android:orientation="vertical" for vertical alignment of the widgets.
 * Have two textfield having the dataformat as numbers.
 * Have one textview to display results.
 * Buttons for sub,add,mul,div.
